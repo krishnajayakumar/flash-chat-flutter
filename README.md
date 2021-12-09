@@ -1,3 +1,5 @@
+#author : krishna jayakumar
+
 # Flash Chat ⚡️
 
 ## Our Goal
