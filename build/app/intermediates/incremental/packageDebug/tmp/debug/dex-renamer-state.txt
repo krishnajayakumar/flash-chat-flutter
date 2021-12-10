@@ -1,7 +1,7 @@
-#Thu Dec 09 07:48:06 EST 2021
-base.1=C\:\\Users\\Krishna\\AndroidStudioProjects\\flash-chat-flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes2.dex
+#Fri Dec 10 09:36:35 EST 2021
+base.1=D\:\\GitHub\\flash-chat-flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes2.dex
 path.1=classes2.dex
-base.0=C\:\\Users\\Krishna\\AndroidStudioProjects\\flash-chat-flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+base.0=D\:\\GitHub\\flash-chat-flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 path.0=classes.dex
